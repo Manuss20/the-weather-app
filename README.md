@@ -23,6 +23,8 @@ To run the application, execute the following command in the project directory:
 python run.py
 Then, open your web browser and navigate to http://localhost:5000.
 
+The temperature is now displayed in Celsius degrees.
+
 # Files
 
 - app/views.py: Contains the Flask routes and the main logic of the application.
